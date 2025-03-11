@@ -1,4 +1,4 @@
-@import "tailwindcss";
+@import "../../../node_modules/tailwindcss";
 
 :root {
 
@@ -7,3 +7,4 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
+
