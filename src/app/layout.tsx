@@ -10,7 +10,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <div>hello next.js</div>
         {children}
       </body>
     </html>
